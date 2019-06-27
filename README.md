@@ -4,11 +4,11 @@
 
 * [Test Data](Resources/alphabtical_testing.xlsx) - Use this while developing your scripts.
 
-* [Stock Data](Resources/Multiple_year_stock_data.xlsx) - Run your scripts on this data to generate the final homework report.
+* [Stock Data](Resources/Multiple_year_stock_data.xlsx) (797,897 rows) - Run your scripts on this data to generate the final homework report.
 
 ### Stock market analyst
 
-![stock Market](Images/stockmarket.jpg)
+![stock Market](Images/stockmarket.png)
 
 
 * Create a script that will loop through all the stocks for one year for each run and take the following information.
