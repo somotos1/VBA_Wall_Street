@@ -2,7 +2,7 @@
 
 ### Files
 
-* [Test Data](Resources/alphabtical_testing.xlsx) - Use this while developing your scripts.
+* [Test Data](Data/alphabtical_testing.xlsx) - Use this while developing your scripts.
 
 * [Stock Data](Resources/Multiple_year_stock_data.xlsx) (797,897 rows) - Run your scripts on this data to generate the final homework report.
 
